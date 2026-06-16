@@ -24,7 +24,29 @@ revenue trends, yop-performing products, regional sales performance, customer ac
 - Total Cuastomers
 - Top Product
 - Regional Sales Performance 
-- Sales Trend Analysis 
+- Sales Trend Analysis
+
+	Dataset Description
+This dataset contains sales transactions from 2010–2011, including customer, product, salesperson, region, item quantity, price, and revenue information.
+
+	Data Cleaning Process
+Removed duplicates
+Checked for missing values
+Standardized date formats
+Created calculated revenue fields
+Validated data consistency
+
+	Dashboard Features
+Revenue KPI
+Sales Trend Analysis
+Top Products
+Regional Performance
+Salesperson Performance
+Customer Analysis
+Interactive Slicers
+
+	Business Impact
+The dashboard helps management identify revenue trends, top-performing products, high-value customers, and underperforming regions for better decision-making.
 
 	Key Insights
 - Drinking Water generated the highest revenue.
