@@ -29,27 +29,38 @@ revenue trends, top-performing products, regional sales performance, customer ac
 
 
 		Dataset Description 
-This dataset contains sales transacions from 2010-2011, including customer, product, salesperson, region, items quantity, price, and revenue
+This dataset contains sales transacions from 2010-2011, including 
+- customer,
+- product,
+- salesperson,
+- region,
+- items quantity,
+- price, and
+- revenue
 
 
 		Data Cleaning Process
-Removed duplicates
-Checked for missing values
-Standardized date formats
-Created calculated revenue fields
-Validated data consistency
+- Removed duplicates
+- Checked for missing values
+- Standardized date formats
+- Created calculated revenue fields
+- Validated data consistency
 
 		Dashboard Features
-Revenue KPI
-Sales Trend Analysis
-Top Products
-Regional Performance
-Salesperson Performance
-Customer Analysis
-Interactive Slicers
+- Revenue KPI
+- Sales Trend Analysis
+- Top Products
+- Regional Performance
+- Salesperson Performance
+- Customer Analysis
+- Interactive Slicers
 
 		Business Impact
-The dashboard helps management identify revenue trends, top-performing products, high-value customers, and underperforming regions for better decision-making.
+The dashboard helps management identify; 
+- revenue trends
+- top-performing products
+- high-value customers
+-  and underperforming regions for better decision-making.
 
 		Key Insights
 - Drinking Water generated the highest revenue.
